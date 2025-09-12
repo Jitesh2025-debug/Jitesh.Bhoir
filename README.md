@@ -42,7 +42,7 @@ Data Analyst & MIS Specialist with **9+ years** of experience across **e-commerc
 ---
 
 ### V-Logis — Executive *(Jul 2021 – May 2022)*  
-**Responsibility:** Multi-client MIS, billing & inventory reporting (Procos, Chika, Nyurion Chemicals).  
+**Responsibility:** Multi-client MIS, billing & inventory reporting (Procos, Chika, Nouryon Chemicals).  
 **What I do (actions):**
 - Managed SAP extracts for inventory-to-invoice reconciliation and prepared MIS for client billing cycles.  
 - Built Excel trackers and automated templates for recurring invoices and exception handling.  
