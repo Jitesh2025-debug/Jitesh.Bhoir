@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Jitesh Bhoir
-
 💡 **Data Analyst | MIS Supervisor | Power BI • SQL • Python in Excel • Advanced Excel**  
 📍 Mumbai, India
 
