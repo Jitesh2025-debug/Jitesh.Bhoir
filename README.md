@@ -83,7 +83,7 @@ Data Analyst & MIS Specialist with **9+ years** of experience across **e-commerc
 - **Outbound SLA Dashboard (Maersk):** End-to-end SLA monitoring using SQL + Power BI with automated daily refreshes and exception alerts.
 ![Outbound SLA Dashboard](/image/dashboard.png)
 - **Forecast vs Actual Model:** Implemented forecast reconciliation in Power Query to measure accuracy and highlight deviation drivers.  
-
+![Inbound Dashboard](/image/image2.png)
 ---
 
 ## 🎯 Tools & Technologies
