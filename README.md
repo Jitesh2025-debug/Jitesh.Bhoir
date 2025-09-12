@@ -61,7 +61,7 @@ Data Analyst & MIS Specialist with **9+ years** of experience across **e-commerc
 
 ---
 
-### Grampanchayat Office — Data Entry Operator *(2018 – Apr 2019)*  
+### Grampanchayat Office — Data Entry Operator *(Nov 2018 – Apr 2019)*  
 **Responsibility:** Digitize financial records and create insight reports.  
 **What I do (actions):**
 - Converted physical cashbooks into clean Excel datasets and built trend charts for monthly reviews.  
