@@ -95,16 +95,18 @@ Data Analyst & MIS Specialist with **9+ years** of experience across **e-commerc
     <td align="center"><img src="https://img.icons8.com/color/96/python.png" width="60"/><br/>Python</td>
     <td align="center"><img src="https://img.icons8.com/fluency/96/jupyter.png" width="60"/><br/>Jupyter</td>
     <td align="center"><img width="60" alt="image" src="https://github.com/user-attachments/assets/7ddf4352-0084-4077-99ee-74467f0535c9" /><br/>Visual Studio</td>
-    <td align="center"><img width="90" height="70" alt="image" src="https://github.com/user-attachments/assets/dae54974-c100-44b9-a56b-dd502fedcc5a" /><br/>SQL</td>
   </tr>
   <tr>
+    <td align="center"><img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/dae54974-c100-44b9-a56b-dd502fedcc5a" /><br/>SQL</td>
     <td align="center"><img width="60" alt="image" src="https://github.com/user-attachments/assets/7737fcf0-76fa-4e77-90e3-c6384de58abe" /><br/>Teams</td>
     <td align="center"><img width="60" alt="image" src="https://github.com/user-attachments/assets/564b0ecf-b69f-4aec-acc1-c5bbba86992b" /><br/>Edge</td>
     <td align="center"><img width="60" alt="image" src="https://github.com/user-attachments/assets/0b02af47-2562-4bef-93d3-05d591b0ab17" /><br/>Forms</td>
     <td align="center"><img width="60" alt="image" src="https://github.com/user-attachments/assets/4e9d0b3e-ee99-439a-aa92-b50f6697aa1e" /><br/>PowerPoint</td>
-    <td align="center"><img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b0855f43-0f9b-4655-9898-c383174584ee" /><br/>Microsoft 365</td> 
-    <td align="center"><img width="70" alt="image" src="https://github.com/user-attachments/assets/bace292f-9b6a-40e9-99f3-e63f4f59e68c" /><br/></td>
   </tr>
+  <tr>
+  <td align="center"><img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b0855f43-0f9b-4655-9898-c383174584ee" /><br/>Microsoft 365</td> 
+  <td align="center"><img width="70" alt="image" src="https://github.com/user-attachments/assets/bace292f-9b6a-40e9-99f3-e63f4f59e68c" /><br/></td>  
+  <td align="center"><img src="https://img.icons8.com/color/96/sap.png" width="60"/><br/>SAP</td>
 </table>
 
 
