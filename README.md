@@ -87,7 +87,28 @@ Data Analyst & MIS Specialist with **9+ years** of experience across **e-commerc
 ---
 
 ## 🎯 Tools & Technologies
-![Power BI](/image/PBI.png) · Power Query · SQL · Python in Excel · Advanced Excel (Macros, PivotTables) · Google Sheets/Query · SAP · WMS · Visual Studeo · Jupyter Notebook
+<table>
+  <tr>
+    <td align="center"><img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/66af58da-e7e0-428b-8f12-29839b920555" /><br/>Power BI</td>
+    <td align="center"><img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/3d08663d-d5fa-441c-a9a6-a73860273dab" /><br/>Excel</td>
+    <td align="center"><img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/f225b5d7-36db-4a88-9ffd-28dad4a8a08f" /><br/>Microsoft 365</td>
+    <td align="center"><img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/d672bd63-829d-4e5c-880b-83daabd27b8f" /><br/>Teams</td>
+    <td align="center"><img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/2b255232-ec14-44a7-84d8-8efae9a2b92e" /><br/>Edge
+</td>
+    <td align="center"><img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/32ed0816-b2aa-4fc5-8215-6a536e757807" /><br/>Form</td>
+    <td align="center"><img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/8036d1cf-46e3-4df8-a2a9-4f6da77037e6" /><br/>PowerPoint</td>
+    <td align="center"><img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/8b00a08d-f286-4a95-9e1e-ca751d16a0f8" /><br/>Visual Studio</td>
+    <td align="center"><img width="70" alt="image" src="https://github.com/user-attachments/assets/5c9f91d2-1bc2-4f92-9749-f2f55d295e48" /><br/></td>
+      </tr>
+</table>
+<table>
+  <tr>
+    <td align="center"><img width="50" height="100" alt="image" src="https://github.com/user-attachments/assets/fc7d100f-5f6f-4ed6-ba00-235c194e6786" /><br/>Python</td>
+    <td align="center"><img src="https://img.icons8.com/color/96/sap.png" width="50"/><br/>SAP</td>
+    <td align="center"><img width="70" height="100" alt="image" src="https://github.com/user-attachments/assets/951af7e0-b086-441f-9808-5ee65fe43539" /><br/></td>
+    <td align="center"><img src="https://img.icons8.com/fluency/96/jupyter.png" width="50"/><br/>Jupyter</td>
+  </tr>
+</table>
 
 ---
 
