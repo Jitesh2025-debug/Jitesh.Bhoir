@@ -87,7 +87,7 @@ Data Analyst & MIS Specialist with **9+ years** of experience across **e-commerc
 ---
 
 ## 🎯 Tools & Technologies
-Power BI · Power Query · SQL · Python in Excel · Advanced Excel (Macros, PivotTables) · Google Sheets/Query · SAP · WMS · Visual Studeo · Jupyter Notebook
+![Power BI](/image/PBI.png) · Power Query · SQL · Python in Excel · Advanced Excel (Macros, PivotTables) · Google Sheets/Query · SAP · WMS · Visual Studeo · Jupyter Notebook
 
 ---
 
