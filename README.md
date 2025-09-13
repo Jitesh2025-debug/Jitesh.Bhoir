@@ -154,12 +154,11 @@ Data Analyst & MIS Specialist with **9+ years** of experience across **e-commerc
 
 <div align="center">
 
-  <a href="https://github.com/Jitesh2025-debug/Jitesh.Bhoir/raw/main/README.pdf" download>
+  <a href="https://github.com/Jitesh2025-debug/Jitesh.Bhoir/raw/main/Jitesh%20Bhoir%20_%20Resume%20Data%20Analyst.pdf" 
+   download 
+   target="_blank">
     <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/1e91b31c-1366-4ccb-b4f4-6e1d04d60af8" />
 
   </a>
-
-</div>
-
 
 ---
