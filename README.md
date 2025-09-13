@@ -91,11 +91,11 @@ Data Analyst & MIS Specialist with **9+ years** of experience across **e-commerc
 <table>
   <tr>
     <td align="center"><img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/ce9fdd37-7900-42a9-b18a-a1548eb160a6" /><br/>Power BI</td>
-    <td align="center"><img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="60"/><br/>Excel</td>
+    <td align="center"><img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="60" height="60"/><br/>Excel</td>
     <td align="center"><img src="https://img.icons8.com/color/96/python.png" width="60"/><br/>Python</td>
     <td align="center"><img src="https://img.icons8.com/fluency/96/jupyter.png" width="60"/><br/>Jupyter</td>
     <td align="center"><img width="60" alt="image" src="https://github.com/user-attachments/assets/7ddf4352-0084-4077-99ee-74467f0535c9" /><br/>Visual Studio</td>
-    <td align="center"><img width="70" height="60" alt="image" src="https://github.com/user-attachments/assets/dae54974-c100-44b9-a56b-dd502fedcc5a" /><br/>SQL</td>
+    <td align="center"><img width="100" height="60" alt="image" src="https://github.com/user-attachments/assets/dae54974-c100-44b9-a56b-dd502fedcc5a" /><br/>SQL</td>
     <td align="center"><img width="60" alt="image" src="https://github.com/user-attachments/assets/7737fcf0-76fa-4e77-90e3-c6384de58abe" /><br/>Teams</td>
     <td align="center"><img width="60" alt="image" src="https://github.com/user-attachments/assets/564b0ecf-b69f-4aec-acc1-c5bbba86992b" /><br/>Edge</td>
     <td align="center"><img width="60" alt="image" src="https://github.com/user-attachments/assets/0b02af47-2562-4bef-93d3-05d591b0ab17" /><br/>Forms</td>
