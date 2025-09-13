@@ -113,32 +113,38 @@ Data Analyst & MIS Specialist with **9+ years** of experience across **e-commerc
 
 ## 🎓 Education & Certifications
 - [Bachelor of Management Studies (BMS)], [Mumbai University] — [2019]  
-- 
 ---
 
 ## 🌐 Connect with Me 
 
-<p align="center">
+<div>
+
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/jitesh-bhoir/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/jitesh-bhoir" target="_blank">
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/164cf461-32f6-4ada-b32a-21c855925914" />
 
-  <!-- GitHub -->
-  <a href="https://github.com/Jitesh2025-debug/Jitesh.Bhoir" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/>
   </a>
-
+  
   <!-- Email -->
   <a href="mailto:bhoirj@outlook.com">
-    <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"/>
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/011863b7-ca73-4c7d-8cb7-e841736fa109" />
   </a>
 
-  <!-- Call Button -->
-  <a href="tel:+919209494148" style="text-decoration:none;">
-    <img src="https://img.icons8.com/fluency/48/phone.png" alt="Call"/>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/919209494148" target="_blank">
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7310810a-6400-472d-a2d1-4dda90080de7" />
   </a>
-</p>
+
+
+  <!-- Outlook Calendar -->
+  <a href="https://outlook.live.com/calendar/0/deeplink/compose?subject=Meeting%20with%20Jitesh&body=Let%27s%20connect%20over%20a%20call.&startdt=2025-09-13T12:00:00&enddt=2025-09-13T12:30:00" target="_blank">
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9ebe2b6c-a6ac-47e8-8fe7-39cd7d1087d1" />
+  </a>
+
+</div>
+
+
 
 
 ---
