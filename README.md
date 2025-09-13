@@ -115,6 +115,8 @@ Data Analyst & MIS Specialist with **9+ years** of experience across **e-commerc
 - Bachelor of Management Studies (BMS)], Mumbai University — 2019
 ---
 
+
+
 ## 🌐 Connect with Me 
 
 <div>
@@ -142,6 +144,10 @@ Data Analyst & MIS Specialist with **9+ years** of experience across **e-commerc
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9ebe2b6c-a6ac-47e8-8fe7-39cd7d1087d1" />
   </a>
 
+ <!-- Contact Me Button -->
+  <a href="tel:+919209494148">
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6541603b-5131-41d5-b368-a56f6265b423" />
+  </a>
 </div>
 
 
