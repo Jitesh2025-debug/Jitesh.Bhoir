@@ -120,7 +120,7 @@ Data Analyst & MIS Specialist with **9+ years** of experience across **e-commerc
 <div>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/jitesh-bhoir" target="_blank">
+  <a href="https://www.linkedin.com/in/jitesh-bhoir-2b80b9151" target="_blank">
     <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/164cf461-32f6-4ada-b32a-21c855925914" />
 
   </a>
