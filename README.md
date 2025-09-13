@@ -151,7 +151,7 @@ Data Analyst & MIS Specialist with **9+ years** of experience across **e-commerc
 </div>
 
 
-<!-- trigger -->
+
 <div align="center">
 
   <a href="https://github.com/Jitesh2025-debug/Jitesh.Bhoir/raw/main/README.pdf" download>
