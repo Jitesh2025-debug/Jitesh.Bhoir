@@ -91,7 +91,7 @@ Data Analyst & MIS Specialist with **9+ years** of experience across **e-commerc
 <table>
   <tr>
     <td align="center"><img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/ce9fdd37-7900-42a9-b18a-a1548eb160a6" /><br/>Power BI</td>
-    <td align="center"><img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="65" height="60"/><br/>Excel</td>
+    <td align="center"><img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="70" height="60"/><br/>Excel</td>
     <td align="center"><img src="https://img.icons8.com/color/96/python.png" width="60"/><br/>Python</td>
     <td align="center"><img src="https://img.icons8.com/fluency/96/jupyter.png" width="60"/><br/>Jupyter</td>
     <td align="center"><img width="60" alt="image" src="https://github.com/user-attachments/assets/7ddf4352-0084-4077-99ee-74467f0535c9" /><br/>Visual Studio</td>
@@ -116,9 +116,29 @@ Data Analyst & MIS Specialist with **9+ years** of experience across **e-commerc
 - 
 ---
 
-## 🌐 Connect
-- 🔗 LinkedIn: https://linkedin.com/in/jitesh-bhoir-2b80b9151 
-- 💻 GitHub: https://github.com/Jitesh2025-debug/Jitesh.Bhoir 
-- ✉️ Email: bhoirj@outlook.com
+## 🌐 Connect with Me 
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/jitesh-bhoir/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Jitesh2025-debug/Jitesh.Bhoir" target="_blank">
+    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:bhoirj@outlook.com">
+    <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"/>
+  </a>
+
+  <!-- Call Button -->
+  <a href="tel:+919209494148" style="text-decoration:none;">
+    <img src="https://img.icons8.com/fluency/48/phone.png" alt="Call"/>
+  </a>
+</p>
+
 
 ---
