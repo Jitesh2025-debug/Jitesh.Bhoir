@@ -107,6 +107,7 @@ Data Analyst & MIS Specialist with **9+ years** of experience across **e-commerc
   <td align="center"><img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b0855f43-0f9b-4655-9898-c383174584ee" /><br/>Microsoft 365</td> 
   <td align="center"><img width="70" alt="image" src="https://github.com/user-attachments/assets/bace292f-9b6a-40e9-99f3-e63f4f59e68c" /><br/></td>  
   <td align="center"><img src="https://img.icons8.com/color/96/sap.png" width="60"/><br/>SAP</td>
+  </tr> 
 </table>
 
 
