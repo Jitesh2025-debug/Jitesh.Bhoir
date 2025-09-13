@@ -1,1 +1,30 @@
+name: Convert README to PDF
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-plain-generic
+
+      - name: Convert README.md to PDF
+        run: pandoc README.md -o README.pdf
+
+      - name: Commit PDF back to repo
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.pdf
+          git commit -m "Auto-update README.pdf"
+          git push
 
