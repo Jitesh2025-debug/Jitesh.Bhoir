@@ -1,5 +1,5 @@
 💡 **Data Analyst | MIS Supervisor | Power BI • SQL • Python in Excel • Advanced Excel**  
-📍 Mumbai, India
+📍 Mumbai, India 📞 +91-9209494148
 
 ---
 
